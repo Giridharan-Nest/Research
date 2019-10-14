@@ -5,7 +5,7 @@ export default class index extends Component {
     render() {
         return (
             <View>
-                <Text>Giridharan </Text>
+                <Text>GiridharanK </Text>
             </View>
         )
     }
